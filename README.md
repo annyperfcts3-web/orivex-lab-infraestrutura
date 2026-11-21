@@ -1,7 +1,6 @@
 
 # ORIVEX LAB — Infraestrutura e Redes
 
-
 ## Sobre o projeto
 
 O **ORIVEX LAB — Infraestrutura e Redes** é um laboratório de estudos e documentação técnica voltado à infraestrutura de TI, administração de redes, sistemas Linux, monitoramento, segurança da informação e automação.
@@ -46,8 +45,6 @@ O projeto tem como objetivo consolidar conhecimentos técnicos e demonstrar comp
 
 ## Aplicações em ambientes NOC
 
-Os conteúdos são relacionados a situações encontradas em operações de monitoramento de redes, como:
-
 - Verificação de disponibilidade de equipamentos.
 - Análise de perda de pacotes e latência.
 - Monitoramento de interfaces e enlaces.
@@ -59,7 +56,7 @@ Os conteúdos são relacionados a situações encontradas em operações de moni
 
 ## Diagnósticos documentados
 
-O laboratório também reúne registros de diagnósticos de conectividade realizados em ambiente Windows, incluindo:
+O laboratório reúne registros de diagnósticos de conectividade realizados em ambiente Windows, incluindo:
 
 - `ipconfig`
 - `ping`
